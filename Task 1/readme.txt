@@ -1,1 +1,3 @@
-
+******************************************************* PYTHON BASIC CALCULATOR ***********************************************************
+                                                       *************************
+This Python script implements a simple calculator that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The program runs in an infinite loop, repeatedly presenting a menu of options to the user. The user can choose an arithmetic operation by entering the corresponding symbol ('+', '-', '*', '/'). Additionally, the user has the option to exit the program by entering 'exit'.
