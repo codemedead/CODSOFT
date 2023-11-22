@@ -1,1 +1,3 @@
+-------------------------------------------------------- Rock-Paper-Scissors ---------------------------------------------------------------
 
+This Python script implements a simple yet engaging Rock-Paper-Scissors game. Users are prompted to choose rock, paper, or scissors, with an option to exit by pressing 'e.' The game continuously runs a loop until the user decides to exit, providing a seamless experience. It incorporates suspenseful delays between displaying choices and results, enhancing the game's visual presentation. The code maintains clarity with descriptive function names and straightforward logic, ensuring readability and ease of modification. 
